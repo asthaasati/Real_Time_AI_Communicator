@@ -1,0 +1,8 @@
+streamlit
+vosk
+gtts
+groq
+pydub
+sounddevice
+scipy
+python-dotenv
